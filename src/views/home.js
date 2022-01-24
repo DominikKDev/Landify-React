@@ -142,9 +142,7 @@ const Home = () => {
             <h1
               className={` ${styles['text12']} ${projectStyles['headline1']} `}
             >
-              <span>Organize projects.</span>
-              <br></br>
-              <span>Get more done.</span>
+              <span>Hello World!</span>
             </h1>
             <PrimaryButton button="Get Started"></PrimaryButton>
           </div>
@@ -205,11 +203,11 @@ const Home = () => {
         <div className={styles['Divider1']}></div>
       </div>
       <div className={styles['Features']}>
-        <h2 className={` ${projectStyles['headline2']} ${styles['text16']} `}>
+        <h2 className={` ${projectStyles['headline2']} ${styles['text14']} `}>
           Tailor-made features
         </h2>
-        <span className={styles['text17']}>
-          <span className={styles['text18']}>
+        <span className={styles['text15']}>
+          <span className={styles['text16']}>
             Lorem ipsum is common placeholder text used to demonstrate the
             graphic elements of a document or visual presentation.
           </span>
@@ -247,7 +245,7 @@ const Home = () => {
               className={styles['image08']}
             />
             <h1
-              className={` ${styles['text19']} ${projectStyles['headline2']} `}
+              className={` ${styles['text17']} ${projectStyles['headline2']} `}
             >
               Real Stories from Real Customers
             </h1>
@@ -279,8 +277,8 @@ const Home = () => {
       </div>
       <div className={styles['Achievements']}>
         <div className={styles['container14']}>
-          <h2 className={styles['text21']}>
-            <span className={styles['text22']}>
+          <h2 className={styles['text19']}>
+            <span className={styles['text20']}>
               Our 18 years of
               <span
                 dangerouslySetInnerHTML={{
@@ -291,8 +289,8 @@ const Home = () => {
             <br></br>
             <span>achievements</span>
           </h2>
-          <span className={styles['text25']}>
-            <span className={styles['text26']}>
+          <span className={styles['text23']}>
+            <span className={styles['text24']}>
               With our super powers we have reached this
             </span>
           </span>
@@ -331,8 +329,8 @@ const Home = () => {
         </div>
         <div className={styles['container19']}>
           <h3 className={projectStyles['headline3']}>Headline</h3>
-          <span className={` ${styles['text28']} ${projectStyles['lead1']} `}>
-            <span className={styles['text29']}>
+          <span className={` ${styles['text26']} ${projectStyles['lead1']} `}>
+            <span className={styles['text27']}>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit.
               Condimentum diam orci pretium a pharetra, feugiat cursus. Dictumst
               risus, sem egestas odio cras adipiscing vulputate. Nisi, risus in
@@ -344,13 +342,13 @@ const Home = () => {
       </div>
       <div className={styles['Feature2']}>
         <div className={styles['container20']}>
-          <h2 className={` ${projectStyles['headline2']} ${styles['text30']} `}>
-            <span className={styles['text31']}>
+          <h2 className={` ${projectStyles['headline2']} ${styles['text28']} `}>
+            <span className={styles['text29']}>
               Enter the world of all fashion trends
             </span>
           </h2>
-          <span className={` ${styles['text32']} ${projectStyles['lead1']} `}>
-            <span className={styles['text33']}>
+          <span className={` ${styles['text30']} ${projectStyles['lead1']} `}>
+            <span className={styles['text31']}>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit.
               Condimentum diam orci pretium a pharetra, feugiat cursus. Dictumst
               risus, sem egestas odio cras adipiscing vulputate. Nisi, risus in
@@ -369,23 +367,23 @@ const Home = () => {
         <div className={styles['container21']}>
           <div className={styles['container22']}>
             <h2
-              className={` ${projectStyles['headline2']} ${styles['text34']} `}
+              className={` ${projectStyles['headline2']} ${styles['text32']} `}
             >
-              <span className={styles['text35']}>
+              <span className={styles['text33']}>
                 Manage your projects from your mobile
               </span>
             </h2>
-            <span className={` ${styles['text36']} ${projectStyles['lead1']} `}>
-              <span className={styles['text37']}>
+            <span className={` ${styles['text34']} ${projectStyles['lead1']} `}>
+              <span className={styles['text35']}>
                 Download the app to manage your projects, keep track of the
                 progress and complete tasks without procastinating. Stay on
                 track and complete on time!
               </span>
             </span>
             <span
-              className={` ${styles['text38']} ${projectStyles['subtitle2']} `}
+              className={` ${styles['text36']} ${projectStyles['subtitle2']} `}
             >
-              <span className={styles['text39']}>Get the App</span>
+              <span className={styles['text37']}>Get the App</span>
             </span>
             <StoreBanner></StoreBanner>
           </div>
@@ -413,16 +411,16 @@ const Home = () => {
             className={styles['image13']}
           />
           <div className={styles['container25']}>
-            <span className={styles['text40']}>About</span>
-            <span className={styles['text41']}>Features</span>
-            <span className={styles['text42']}>Pricing</span>
-            <span className={styles['text43']}>Careers</span>
-            <span className={styles['text44']}>Help</span>
-            <span className={styles['text45']}>Privacy Policy</span>
+            <span className={styles['text38']}>About</span>
+            <span className={styles['text39']}>Features</span>
+            <span className={styles['text40']}>Pricing</span>
+            <span className={styles['text41']}>Careers</span>
+            <span className={styles['text42']}>Help</span>
+            <span className={styles['text43']}>Privacy Policy</span>
           </div>
           <div className={styles['Divider2']}></div>
           <div className={styles['container26']}>
-            <span className={` ${styles['text46']} ${projectStyles['body2']} `}>
+            <span className={` ${styles['text44']} ${projectStyles['body2']} `}>
               Â© 2020 Landify UI Kit. All rights reserved
             </span>
             <div className={styles['container27']}>
